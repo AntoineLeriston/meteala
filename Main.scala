@@ -30,8 +30,7 @@ object Main extends IOApp.Simple {
     case 95 | 96 | 99 => "Orage"
     case _ => "Inconnu"
   }
-
-  // NOUVEAU : Le générateur de fond d'écran dynamique
+  
   def getBackgroundForWeather(code: Int): String = code match {
     case 0 => "linear-gradient(135deg, #FF9933, #E14E22)" // Soleil chaud
     case 1 | 2 | 3 => "linear-gradient(135deg, #8E9EAB, #EEF2F3)" // Nuages gris/bleu clair
