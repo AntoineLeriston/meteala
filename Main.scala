@@ -64,7 +64,7 @@ object Main extends IOApp.Simple {
                 val weatherCode = weather.hourly.weather_code(index).getOrElse(-1)
                 
                 val condition = interpretWeatherCode(weatherCode)
-                val bgColor = getBackgroundForWeather(weatherCode) // Extraction de la couleur
+                val bgColor = getBackgroundForWeather(weatherCode)
                 
                 val tempMax = weather.daily.temperature_2m_max.headOption.flatten.getOrElse(0.0)
                 val tempMin = weather.daily.temperature_2m_min.headOption.flatten.getOrElse(0.0)
