@@ -42,7 +42,7 @@ Un script visuel exécuté nativement sur l'iPhone.
 * Le serveur et l'iPhone doivent être sur le **même réseau local** (Wi-Fi ou Partage de connexion).
 * Clonez ce dépôt :
    ```bash
-   git clone [https://github.com/AntoineLeriston/meteala.git](https://github.com/AntoineLeriston/meteala.git)
+   git clone https://github.com/AntoineLeriston/meteala.git
    cd meteala
 
 ### Déploiement Cloud (Fly.io)
