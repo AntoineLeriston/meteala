@@ -48,4 +48,5 @@ Un script visuel exécuté nativement sur l'iPhone.
 ### Déploiement Cloud (Fly.io)
 Cette méthode permet d'utiliser l'application partout dans le monde via la 4G/5G.
 Si le serveur que j'ai mis en place sur Fly.io est encore fonctionnel, je peux vous partager le raccourci et vous pouvez vous servir directement de l'application.
--> [https://www.icloud.com/shortcuts/8f8a82ee5d6346459b5a90725436f74d](https://www.icloud.com/shortcuts/558d5aeb735b46b28311d4fc2ab382d3)
+
+-> [Lien Cloud](https://www.icloud.com/shortcuts/1653b35e0bb54dd4a1f95d35394d439e)
